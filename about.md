@@ -1,4 +1,4 @@
-About this project
+# About this project
 
 This project was created by Nick Radcliffe (https://www.linkedin.com/in/njradcliffe/) after reading The Uninhabitable Earth by David Wallace-Wells.
 
