@@ -12,11 +12,6 @@ If you think this is important, buy another copy, write this message in it and p
 
 If you are on Twitter, you might like to send a picture of the cover to @uninhabitableep, or follow that account.
 
-This message:
+There are printable copies of this message at:
 
-
-[Plain Text (https://github.com/uninhabitable/earth/blob/master/message.txt)](https://github.com/uninhabitable/earth/blob/master/message.txt)
-
-[Markdown/HTML (https://github.com/uninhabitable/earth/blob/master/message.md)](https://github.com/uninhabitable/earth/blob/master/message.md)
-
-[PDF (https://github.com/uninhabitable/earth/blob/master/message.pdf)](https://github.com/uninhabitable/earth/blob/master/message.pdf)
+https://github.com/uninhabitable/earth
