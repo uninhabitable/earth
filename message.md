@@ -8,15 +8,11 @@ If you are on Twitter, you might like to send a picture of the cover to @uninhab
 
 This message:
 
-[Plain Text](https://github.com/uninhabitable/earth/blob/master/message.txt)
+[Plain Text (https://github.com/uninhabitable/earth/blob/master/message.txt)](https://github.com/uninhabitable/earth/blob/master/message.txt)
 
-[Markdown/HTML](https://github.com/uninhabitable/earth/blob/master/message.md)
+[Markdown/HTML (https://github.com/uninhabitable/earth/blob/master/message.md)](https://github.com/uninhabitable/earth/blob/master/message.md)
 
-[PDF](https://github.com/uninhabitable/earth/blob/master/message.pdf)
-
-
-
-
+[PDF (https://github.com/uninhabitable/earth/blob/master/message.pdf)](https://github.com/uninhabitable/earth/blob/master/message.pdf)
 
 
 
