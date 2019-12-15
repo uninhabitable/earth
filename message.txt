@@ -10,6 +10,8 @@ This message:
 
 https://github.com/uninhabitable/earth/blob/master/message.txt
 
+https://github.com/uninhabitable/earth/blob/master/message.md
+
 https://github.com/uninhabitable/earth/blob/master/message.pdf
 
 
