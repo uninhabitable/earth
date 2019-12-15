@@ -8,7 +8,7 @@ If you don't read it, please pass it on to someone else anyway.
 
 If you think this is important, buy another copy, write this message in it and pass that on too. (If enough people do this, like a sustainable pyramid scheme, we might get a lot of people reading the book soon.
 
-If you are on Twitter, you might like to send a picture of the cover to @uninhabitableep (https://twitter.com/uninhabitableep), or follow that account.
+If you are on Twitter, you might like to send a picture of the cover to @UninhabitableEP (https://twitter.com/UninhabitableEP), or follow that account.
 
 This message:
 
